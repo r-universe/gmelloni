@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "interactionRCS"]
+	path = interactionRCS
+	url = https://github.com/gmelloni/interactionrcs
+	shallow = true
+	registered = true
