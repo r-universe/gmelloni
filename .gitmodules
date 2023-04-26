@@ -13,8 +13,3 @@
 	url = https://git.bioconductor.org/packages/LowMACA
 	shallow = true
 	registered = true
-[submodule "PrecisionTrialDrawer"]
-	path = PrecisionTrialDrawer
-	url = https://git.bioconductor.org/packages/PrecisionTrialDrawer
-	shallow = true
-	registered = true
