@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "LowMACA"]
-	path = LowMACA
-	url = https://git.bioconductor.org/packages/LowMACA
 [submodule "interactionRCS"]
 	path = interactionRCS
 	url = https://github.com/gmelloni/interactionrcs
